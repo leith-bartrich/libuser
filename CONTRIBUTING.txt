@@ -1,0 +1,3 @@
+FIE LLC requires a signed CLA agreement in order to merge contributions
+into the codebase.  Please see CLA.txt for the agreement and instructions
+on how to complete and submit it.
